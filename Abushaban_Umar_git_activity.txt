@@ -1,0 +1,26 @@
+* 3b0f384 (HEAD -> main, origin/main, origin/HEAD) Delete Umar_Abushaban_git_activity.txt
+* a4c220f Create Umar_Abushaban_git_activity.txt
+*   a4ba080 Merge pull request #1 from umar-abushaban/feature/project-structure
+|\  
+| * 97be9d5 (origin/feature/project-structure) Create README.md
+| * 90d9463 Create __init__.py
+| * 98a13fc Create __init__.py
+| * 9e4233f Create example.ipynb
+| * 41fa76d Create .gitkeep
+|/  
+* 60e9348 Initial commit
+\n===== REPOSITORY STRUCTURE =====\n
+.
+./tests
+./tests/__init__.py
+./docs
+./docs/README.md
+./README.md
+./Abushaban_Umar_git_activity.txt
+./.gitignore
+./data
+./data/.gitkeep
+./notebooks
+./notebooks/example.ipynb
+./src
+./src/__init__.py
